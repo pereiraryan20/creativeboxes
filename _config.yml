@@ -8,5 +8,8 @@ url: "" # the base hostname & protocol for your site
 twitter_username: pereiraryan20
 github_username: pereiraryan
 
+#remote theme
+remote_theme: volny/creative-theme-jekyll
+
 # Build settings
 markdown: kramdown
